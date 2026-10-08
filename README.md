@@ -8,7 +8,7 @@ Me gusta llevar una idea de principio a fin: desde la base de datos hasta un das
 
 - [**Pipeline ETL de Ventas**](https://github.com/veroagulr/etl-ventas-sqlserver-powerbi): de CSV a Data Warehouse y dashboard en Power BI
 - [**Personal Finance**](https://github.com/veroagulr/personal-finance): app web de finanzas personales con API REST en FastAPI
-- **Análisis de Cursos Virtuales**: BI con DataMart, cubo SSAS y Power BI *(proyecto universitario)*
+- **Análisis de Cursos Virtuales**: BI con DataMart, cubo SSAS y Power BI
 
 ## 🛠️ Tecnologías
 
