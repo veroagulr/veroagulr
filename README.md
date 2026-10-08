@@ -4,21 +4,11 @@ Estudiante de octavo ciclo de **Ingeniería de Sistemas** en la Universidad Naci
 
 Me gusta llevar una idea de principio a fin: desde la base de datos hasta un dashboard que cualquiera pueda entender.
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 
-**Pipeline ETL de Ventas**  
-Pipeline de punta a punta que procesa 3 fuentes CSV con reglas de limpieza y validación, las carga en un Data Warehouse con esquema estrella de 4 tablas y las presenta en un dashboard de Power BI con 4 KPIs.  
-`Python` · `SQL Server` · `Power BI`  
-[Ver repositorio](https://github.com/veroagulr/etl-ventas-sqlserver-powerbi)
-
-**Personal Finance**  
-Aplicación web de finanzas personales con API REST, autenticación JWT, base de datos relacional y dashboard interactivo.  
-`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Chart.js`  
-[Ver repositorio](https://github.com/veroagulr/personal-finance)
-
-**Análisis de Cursos Virtuales** *(proyecto universitario)*  
-Solución de BI para monitorear matrícula y participación en cursos virtuales: DataMart, cubo SSAS y dashboard filtrable por profesor.  
-`SQL Server` · `SSAS` · `Power BI` · `DAX`
+- [**Pipeline ETL de Ventas**](https://github.com/veroagulr/etl-ventas-sqlserver-powerbi): de CSV a Data Warehouse y dashboard en Power BI
+- [**Personal Finance**](https://github.com/veroagulr/personal-finance): app web de finanzas personales con API REST en FastAPI
+- **Análisis de Cursos Virtuales**: BI con DataMart, cubo SSAS y Power BI *(proyecto universitario)*
 
 ## 🛠️ Tecnologías
 
